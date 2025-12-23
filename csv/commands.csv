@@ -1,0 +1,1125 @@
+Command_Code,Command_Name
+001 DET                                                     ,001 DET SQUAD
+001 PCT                                                     ,001 PRECINCT
+005 DET                                                     ,005 DET SQUAD
+005 PCT                                                     ,005 PRECINCT
+006 DET                                                     ,006 DET SQUAD
+006 PCT                                                     ,006 PRECINCT
+007 DET                                                     ,007 DET SQUAD
+007 PCT                                                     ,007 PRECINCT
+009 DET                                                     ,009 DET SQUAD
+009 PCT                                                     ,009 PRECINCT
+010 DET                                                     ,010 DET SQUAD
+010 PCT                                                     ,010 PRECINCT
+013 DET                                                     ,013 DET SQUAD
+013 PCT                                                     ,013 PRECINCT
+017 DET                                                     ,017 DET SQUAD
+017 PCT                                                     ,017 PRECINCT
+019 DET                                                     ,019 DET SQUAD
+019 PCT                                                     ,019 PRECINCT
+020 DET                                                     ,020 DET SQUAD
+020 PCT                                                     ,020 PRECINCT
+023 DET                                                     ,023 DET SQUAD
+023 PCT                                                     ,023 PRECINCT
+024 DET                                                     ,024 DET SQUAD
+024 PCT                                                     ,024 PRECINCT
+025 DET                                                     ,025 DET SQUAD
+025 PCT                                                     ,025 PRECINCT
+026 DET                                                     ,026 DET SQUAD
+026 PCT                                                     ,026 PRECINCT
+028 DET                                                     ,028 DET SQUAD
+028 PCT                                                     ,028 PRECINCT
+030 DET                                                     ,030 DET SQUAD
+030 PCT                                                     ,030 PRECINCT
+032 DET                                                     ,032 DET SQUAD
+032 PCT                                                     ,032 PRECINCT
+033 DET                                                     ,033 DET SQUAD
+033 PCT                                                     ,033 PRECINCT
+034 DET                                                     ,034 DET SQUAD
+034 PCT                                                     ,034 PRECINCT
+040 DET                                                     ,040 DET SQUAD
+040 PCT                                                     ,040 PRECINCT
+041 DET                                                     ,041 DET SQUAD
+041 PCT                                                     ,041 PRECINCT
+042 DET                                                     ,042 DET SQUAD
+042 PCT                                                     ,042 PRECINCT
+043 DET                                                     ,043 DET SQUAD
+043 PCT                                                     ,043 PRECINCT
+044 DET                                                     ,044 DET SQUAD
+044 PCT                                                     ,044 PRECINCT
+045 DET                                                     ,045 DET SQUAD
+045 PCT                                                     ,045 PRECINCT
+046 DET                                                     ,046 DET SQUAD
+046 PCT                                                     ,046 PRECINCT
+047 DET                                                     ,047 DET SQUAD
+047 PCT                                                     ,047 PRECINCT
+048 DET                                                     ,048 DET SQUAD
+048 PCT                                                     ,048 PRECINCT
+049 DET                                                     ,049 DET SQUAD
+049 PCT                                                     ,049 PRECINCT
+050 DET                                                     ,050 DET SQUAD
+050 PCT                                                     ,050 PRECINCT
+052 DET                                                     ,052 DET SQUAD
+052 PCT                                                     ,052 PRECINCT
+060 DET                                                     ,060 DET SQUAD
+060 PCT                                                     ,060 PRECINCT
+061 DET                                                     ,061 DET SQUAD
+061 PCT                                                     ,061 PRECINCT
+062 DET                                                     ,062 DET SQUAD
+062 PCT                                                     ,062 PRECINCT
+063 DET                                                     ,063 DET SQUAD
+063 PCT                                                     ,063 PRECINCT
+066 DET                                                     ,066 DET SQUAD
+066 PCT                                                     ,066 PRECINCT
+067 DET                                                     ,067 DET SQUAD
+067 PCT                                                     ,067 PRECINCT
+068 DET                                                     ,068 DET SQUAD
+068 PCT                                                     ,068 PRECINCT
+069 DET                                                     ,069 DET SQUAD
+069 PCT                                                     ,069 PRECINCT
+070 DET                                                     ,070 DET SQUAD
+070 PCT                                                     ,070 PRECINCT
+071 DET                                                     ,071 DET SQUAD
+071 PCT                                                     ,071 PRECINCT
+072 DET                                                     ,072 DET SQUAD
+072 PCT                                                     ,072 PRECINCT
+073 DET                                                     ,073 DET SQUAD
+073 PCT                                                     ,073 PRECINCT
+075 DET                                                     ,075 DET SQUAD
+075 PCT                                                     ,075 PRECINCT
+076 DET                                                     ,076 DET SQUAD
+076 PCT                                                     ,076 PRECINCT
+077 DET                                                     ,077 DET SQUAD
+077 PCT                                                     ,077 PRECINCT
+078 DET                                                     ,078 DET SQUAD
+078 PCT                                                     ,078 PRECINCT
+079 DET                                                     ,079 DET SQUAD
+079 PCT                                                     ,079 PRECINCT
+081 DET                                                     ,081 DET SQUAD
+081 PCT                                                     ,081 PRECINCT
+083 DET                                                     ,083 DET SQUAD
+083 PCT                                                     ,083 PRECINCT
+084 DET                                                     ,084 DET SQUAD
+084 PCT                                                     ,084 PRECINCT
+088 DET                                                     ,088 DET SQUAD
+088 PCT                                                     ,088 PRECINCT
+090 DET                                                     ,090 DET SQUAD
+090 PCT                                                     ,090 PRECINCT
+094 DET                                                     ,094 DET SQUAD
+094 PCT                                                     ,094 PRECINCT
+100 DET                                                     ,100TH DET SQUAD
+100 PCT                                                     ,100 PRECINCT
+101 DET                                                     ,101ST DET SQUAD
+101 PCT                                                     ,101 PRECINCT
+102 DET                                                     ,102ND DET SQUAD
+102 PCT                                                     ,102 PRECINCT
+103 DET                                                     ,103RD DETECTIVE SQUAD
+103 PCT                                                     ,103 PRECINCT
+104 DET                                                     ,104TH DET SQUAD
+104 PCT                                                     ,104 PRECINCT
+105 DET                                                     ,105TH DET SQUAD
+105 PCT                                                     ,105 PRECINCT
+106 DET                                                     ,106TH DET SQUAD
+106 PCT                                                     ,106 PRECINCT
+107 DET                                                     ,107TH DET SQUAD
+107 PCT                                                     ,107 PRECINCT
+108 DET                                                     ,108TH DET SQUAD
+108 PCT                                                     ,108 PRECINCT
+109 DET                                                     ,109TH DET SQUAD
+109 PCT                                                     ,109 PRECINCT
+110 DET                                                     ,110TH DET SQUAD
+110 PCT                                                     ,110 PRECINCT
+111 DET                                                     ,111TH DET SQUAD
+111 PCT                                                     ,111 PRECINCT
+112 DET                                                     ,112TH DET SQUAD
+112 PCT                                                     ,112 PRECINCT
+113 DET                                                     ,113TH DET SQUAD
+113 PCT                                                     ,113 PRECINCT
+114 DET                                                     ,114TH DET SQUAD
+114 PCT                                                     ,114 PRECINCT
+115 DET                                                     ,115TH DET SQUAD
+115 PCT                                                     ,115 PRECINCT
+115 RSVLT TF                                                ,115 PCT ROOSEVELT AVE TF
+120 DET                                                     ,120 DETECTIVE SQUAD
+120 PCT                                                     ,120 PRECINCT
+120 VIPER                                                   ,120 PCT VIPER
+121 DET                                                     ,121 DETECTIVE SQUAD
+121 PCT                                                     ,121 PRECINCT
+122 DET                                                     ,122 DETECTIVE SQUAD
+122 PCT                                                     ,122 PRECINCT
+123 DET                                                     ,
+123 DET SQD                                                 ,123 DETECTIVE SQUAD
+123 PCT                                                     ,123 PRECINCT
+125 ST TF                                                   ,125 STREET TASK FORCE
+1ST D C                                                     ,FIRST DEPUTY COMMISSIONER
+1ST D.C                                                     ,
+28 PCT HUB                                                  ,28 PCT HUB SITE
+A P DIV                                                     ,
+A&E                                                         ,ARSON & EXPLOSION
+A&E SQD                                                     ,
+AC ZONE I                                                   ,AC ZONE I QUEENS/BKLYN/S.I.
+AC ZONE II                                                  ,AC ZONE II BRONX/ MANHATTAN
+ADM DIV                                                     ,
+ADM DIV                                                     ,
+ADM SUP                                                     ,
+ANALYSIS&MAP                                                ,OMAP ANALYSIS & MAPPING SECT
+ANIMAL INV SQD                                              ,SID ANIMAL CRUELTY INV SQD
+ASSET FORFEIT                                               ,ASSET FORFEITURE UNIT
+AUD&ACC                                                     ,
+AUD&ACCT                                                    ,AUDITS & ACCOUNTS UNIT
+AUTO CD                                                     ,
+AUTO CR                                                     ,AUTO CRIME
+AUTO PND                                                    ,AUTO POUND
+AUX P.S                                                     ,
+AUX POL SEC                                                 ,AUXILIARY POLICE SECT
+AV UNIT                                                     ,
+AV.UNIT                                                     ,
+AVIATION                                                    ,AVIATION UNIT
+B/S-END                                                     ,
+B/S-WND                                                     ,
+BALLISTIC VEST                                              ,BALLISTIC VEST UNIT
+BARRIER                                                     ,BARRIER SECTION
+BDBKZ14                                                     ,
+BH DIV                                                      ,BEHAVIORAL HEALTH DIVISION
+BK CHILD                                                    ,BROOKLYN CHILD ABUSE SQUAD
+BK COURT                                                    ,BROOKLYN COURT SECTION
+BK IMP                                                      ,
+BK SVS                                                      ,BROOKLYN SPECIAL VICTIMS SQUAD
+BK TRAN ROB SQD                                             ,BKLYN TRANSIT ROBBERY SQUAD
+BKLN CT                                                     ,
+BKROBSQ                                                     ,BKLYN ROBBERY SQ
+BLDG MAINT                                                  ,BUILDING MAINTENANCE SECT
+BM SEC                                                      ,
+BN CRIME ANL                                                ,BN CRIME ANALYSIS UNIT
+BN GRAND LARC                                               ,BROOKLYN NORTH GRAND LARCENY SQD
+BN IRT                                                      ,
+BN OP NIGHT                                                 ,BROOKLYN NORTH OPER NIGHT WATCH
+BN SU ECT                                                   ,BN EVIDENCE COLLECTION TEAM
+BN VICE                                                     ,BKLYN NORTH VICE MODULE
+BN WARR SQD                                                 ,BKLYN NORTH WARRANT SQUAD
+BNNARCD                                                     ,
+BOMB SQ                                                     ,BOMB SQUAD
+BS CRIME ANL                                                ,BS CRIME ANALYSIS UNIT
+BS GRAND LARC                                               ,BROOKLYN SOUTH GRAND LARCENY SQD
+BS IRT                                                      ,
+BS OP NIGHT                                                 ,BROOKLYN SOUTH OPER NIGHT WATCH
+BS SU ECT                                                   ,BS EVIDENCE COLLECTION TEAM
+BS VICE                                                     ,BKLYN SOUTH VICE MODULE
+BS WARRANT SQD                                              ,BROOKLYN SOUTH WARRANT SQD
+BUS UT                                                      ,
+BUSINESS INTGRTY                                            ,CEIS BUSINESS INTEGRITY COM
+BX APP TEAM                                                 ,BRONX OP APPRHENSION TEAM
+BX CB                                                       ,
+BX CHILD                                                    ,BRONX CHILD ABUSE SQUAD
+BX COURT                                                    ,BRONX COURT SECT
+BX CRIME ANL                                                ,BX CRIME ANALYSIS UNIT
+BX CT                                                       ,
+BX GRAND LARC                                               ,BRONX GRAND LARCENY SQD
+BX IRT                                                      ,
+BX OP NIGHT                                                 ,BRONX OPER NIGHT WATCH
+BX SU ALU                                                   ,BX AUTO LARCENY UNIT
+BX SU ECT                                                   ,BX EVIDENCE COLLECTION TEAM
+BX SVS                                                      ,BRONX SPECIAL VICTIMS SQUAD
+BX TRAN ROB                                                 ,BRONX TRANSIT ROBBERY SQUAD
+BX VICE                                                     ,BRONX VICE MODULE
+BX WARRANT SQD                                              ,BRONX WARRANT SQD
+BX/N-ND                                                     ,
+BX/Q IM                                                     ,
+BX/S-ND                                                     ,
+BXD CID                                                     ,
+BXROBSQ                                                     ,BRONX ROBBERY SQUAD
+C A B                                                       ,
+C A D                                                       ,
+C C A S                                                     ,
+C C SQD                                                     ,COLD CASE SQUAD
+C D D                                                       ,
+C E D                                                       ,
+C O B                                                       ,
+C O D                                                       ,
+C O S U                                                     ,
+C R C                                                       ,
+C S O                                                       ,
+C SCENE                                                     ,CRIME SCENE UNIT
+C TERR                                                      ,
+C/PRV D                                                     ,
+C/SCENE                                                     ,
+CA JVJD                                                     ,
+CA SECT                                                     ,
+CA/CP D                                                     ,
+CAB                                                         ,COMMUNITY AFFAIRS BUREAU
+CAB COD                                                     ,COMMUNITY OUTREACH DIVISION
+CAB INV                                                     ,CAB INVESTIGATIONS UNIT
+CAD CAS                                                     ,CHARACTER ASSESSMENT SECTION
+CAD MAS                                                     ,CAD MEDICAL ASSESSMENT SECTION
+CAD PAS                                                     ,CAD PSYCH ASSESSMENT SECTION
+CAD RECRUIT                                                 ,CAD RECRUITMENT SECTION
+CADET CORPS                                                 ,POLICE CADET CORPS UNIT
+CAPITAL CONST                                               ,CAPITAL CONSTRUCTION UNIT
+CCCS                                                        ,CHIEF CRIME CONTROL STRATEGIES
+CCCS DLU                                                    ,CCCS DISCOVERY LIAISON UNIT
+CD C&C                                                      ,
+CD EPES                                                     ,
+CD IRS                                                      ,
+CD OFF                                                      ,CHIEF OF DEPARTMENT
+CD OP/D                                                     ,
+CD OP/U                                                     ,
+CEIS BES TF                                                 ,CEIS BORDER ENFORCEMENT SEC TASK FORCE
+CEN REC                                                     ,
+CENROBB                                                     ,
+CENTRAL REC                                                 ,CENTRAL RECORDS DIV
+CEREMONIAL                                                  ,CEREMONIAL UNIT
+CH S IN                                                     ,
+CHANGE MGMT                                                 ,DCSI CHANGE MANAGEMENT OFFICE
+CHAPLAINS                                                   ,CHAPLAINS UNIT
+CI&RDIV                                                     ,
+CID ADMIN                                                   ,CID ADMINISTRATION
+CID CRIME STOP                                              ,CID CRIME STOPPERS UNIT
+CID TACTICAL TRN                                            ,CID TACTICAL TRAINING
+CIV HIRING                                                  ,CIVILIAN HIRING UNIT
+CJB                                                         ,CRIMINAL JUSTICE BUREAU
+CJB INV                                                     ,CJB INVESTIGATIONS UNIT
+CMD LVL TRN                                                 ,TRN BUR CMD LVL TRAINING SECT
+CMU 01                                                      ,COURT MONITORING UNIT 1 (MAN/BK/SI)
+CMU 02                                                      ,COURT MONITORING UNIT 2 (BX/QNS/TLC)
+CO RESPONSE                                                 ,CO RESPONSE UNIT
+CO TR                                                       ,
+COD                                                         ,CHIEF OF DEPARTMENT OFFICE
+COD BUSINESS                                                ,BUSINESS DIST RECOVERY INIT DTL
+COD DVIU                                                    ,DOMESTIC VIOLENCE INSP. UNIT
+COD DVU                                                     ,COD DOMESTIC VIOLENCE UNIT
+COD LIAISON                                                 ,COD LIAISON UNIT
+COD SAS                                                     ,
+COL POL                                                     ,
+COMM DIV                                                    ,COMMUNICATIONS DIV
+COMMDIV                                                     ,
+COMMSEC                                                     ,
+COMP CRIMES                                                 ,SID COMPUTER CRIMES
+COMPSTAT ANL                                                ,COMPSTAT ANALYTICAL UNIT
+CON ADM                                                     ,
+CONTRACT ADM                                                ,CONTRACT ADMIN PROCUREMENT DIVISION
+CP YSU                                                      ,DCCPART YOUTH STRATEGIES UNIT
+CPK DET                                                     ,CENTRAL PK DET SQ
+CPK PCT                                                     ,CENTRAL PARK PRECINCT
+CR PREV                                                     ,
+CRC                                                         ,CRITICAL RESPONSE COMMAND
+CRC CANINE                                                  ,CRC CANINE UNIT
+CRD SPARTA                                                  ,CRD SPARTA GROUP
+CREATIVE SERV                                               ,CREATIVE SERVICES SECTION
+CRIM ENTERPR                                                ,CRIMINAL ENTERPRISE DIVISION
+CRJ BUR                                                     ,
+CRM CTL                                                     ,
+CRM REC                                                     ,
+CRS/AU                                                      ,
+CSO                                                         ,CHIEF OF SPECIAL OPERATIONS
+CSO INV                                                     ,CSO INVESTIGATIONS UNIT
+CT BUR                                                      ,COUNTERTERRORISM BUREAU
+CT DIV                                                      ,COUNTERTERRORISM DIVISION
+CT EPES                                                     ,
+CT LMSI                                                     ,LOWER MANHATTAN SECURITY INITIATIVE
+CT UNIT                                                     ,CITYWIDE COUNTERTERRORISM UNIT
+CTB INV UNIT                                                ,CTB INVESTIGATIONS UNIT
+CTERRDV                                                     ,
+CW T TF                                                     ,
+CW TRAFF TF                                                 ,TRB CITYWIDE TRAFFIC T/F
+D C C A                                                     ,
+D C L M                                                     ,
+D C M B                                                     ,
+D C P I                                                     ,DEP COMM PUBLIC INFORMATION
+D C TRL                                                     ,
+D-E T/F                                                     ,
+D.A.R.E                                                     ,
+DA BKLN                                                     ,DA SQUAD BROOKLYN
+DA BKN                                                      ,
+DA BX                                                       ,DA SQUAD BRONX
+DA NY                                                       ,
+DA QNS                                                      ,DA SQUAD QUEENS
+DA S/I                                                      ,
+DA SI                                                       ,
+DA SQD NY                                                   ,DA SQ NY COUNTY
+DA SQD SI                                                   ,DA SQUAD SI
+DB BCIU                                                     ,
+DB BIAS                                                     ,
+DB BKLN                                                     ,
+DB BNHM                                                     ,DET BORO BKLYN NO HOMICIDE SQ
+DB BSHM                                                     ,DET BORO BKLYN SO HOMICIDE SQ
+DB BSVS                                                     ,
+DB BX                                                       ,
+DB BXHM                                                     ,DET BORO BX HOMICIDE SQ
+DB BXSV                                                     ,
+DB CED                                                      ,
+DB CEIS                                                     ,CRIMINAL ENTERPRISE INVEST SEC
+DB CID                                                      ,
+DB CRD                                                      ,CENTRAL ROBBERY DIVISION
+DB FCTF                                                     ,FINANCIAL CRIMES TASK FORCE
+DB FED                                                      ,FUGITIVE ENFORCEMENT DIVISION
+DB FID                                                      ,FORENSIC INVESTIGATIONS DIV
+DB GLD                                                      ,GRAND LARCENY DIVISION
+DB GVSD                                                     ,GUN VIOLENCE SUPPRESSION DIVISION
+DB HATE                                                     ,HATE CRIME TASK FORCE
+DB INV SUPP                                                 ,DB INVESTIGATIVE SUPPORT
+DB INV UNIT                                                 ,DB INVESTIGATIONS UNIT
+DB LPS                                                      ,LATENT PRINT SECTION
+DB MAN                                                      ,
+DB MCID                                                     ,
+DB MNHM                                                     ,DET BORO MAN NO HOMICIDE SQ
+DB MSHM                                                     ,DET BORO MAN SO HOMICIDE SQ
+DB MSVS                                                     ,
+DB O&IT                                                     ,
+DB QNHM                                                     ,DET BORO QNS NORTH HOMICIDE SQ
+DB QNS                                                      ,
+DB QSVS                                                     ,
+DB RTCC                                                     ,
+DB SI                                                       ,
+DB SID                                                      ,SPECIAL INVESTIGATIONS DIV
+DB SPEC ENF DIV                                             ,DB SPECIALTY ENFORCEMENT DIVISION
+DB SVD                                                      ,SPECIAL VICTIMS DIVISION
+DB TSIU                                                     ,DB TRANSIT SPECIAL INV UNIT
+DBBKZ10                                                     ,
+DBBKZ11                                                     ,
+DBBKZ12                                                     ,
+DBBKZ13                                                     ,
+DBBKZ14                                                     ,
+DBBKZ21                                                     ,
+DBBKZ22                                                     ,
+DBBN                                                        ,DET BORO BROOKLYN NORTH
+DBBN OP                                                     ,DET BORO BKLYN NORTH OPER
+DBBS                                                        ,DET BORO BKLYN SOUTH
+DBBS OP                                                     ,DET BORO BKLYN SOUTH OPER
+DBBX                                                        ,DET BORO BRONX
+DBBX OP                                                     ,DET BORO BRONX OPER
+DBBX Z8                                                     ,
+DBBX Z9                                                     ,DET BORO BRONX ZONE #9
+DBCR Z1                                                     ,
+DBM ZN1                                                     ,DET BORO MANHATTAN ZONE #1
+DBM ZN2                                                     ,DET BORO MANHATTAN ZONE #2
+DBM ZN4                                                     ,
+DBM ZN5                                                     ,DET BORO MANHATTAN ZONE #5
+DBM ZN6                                                     ,DET BORO MANHATTAN ZONE #6
+DBMN                                                        ,DET BORO MANHATTAN NORTH
+DBMN OP                                                     ,DET BORO MAN NORTH OPER
+DBMNHTF                                                     ,
+DBMS                                                        ,DET BORO MANHATTAN SOUTH
+DBMS OP                                                     ,DET BORO MAN SOUTH OPER
+DBQ Z16                                                     ,DET BORO QUEENS ZONE #16
+DBQ Z17                                                     ,
+DBQ Z24                                                     ,
+DBQN                                                        ,DET BORO QUEENS NORTH
+DBQN OP                                                     ,DET BORO QNS NORTH OPER
+DBQS                                                        ,DET BORO QUEENS SOUTH
+DBQS OP                                                     ,DET BORO QNS SOUTH OPER
+DBSI                                                        ,DET BORO STATEN ISLAND
+DBSI OP                                                     ,
+DBSV Z1                                                     ,
+DBSV Z2                                                     ,
+DBSV Z3                                                     ,
+DC ADV                                                      ,
+DC C TR                                                     ,
+DC DAO                                                      ,
+DC EEO                                                      ,
+DC INT                                                      ,
+DC IT                                                       ,
+DC LABR                                                     ,
+DC MAP                                                      ,
+DC OPER                                                     ,
+DC TRIALS                                                   ,DEP COMM TRIALS
+DC TRL                                                      ,
+DC TRNG                                                     ,
+DCCPART                                                     ,DEP COMM COMMUNITY PARTNERSHIPS
+DCDAO                                                       ,DEP COMM DEPARTMENT ADVOCATE
+DCEI                                                        ,DEP COMM EQUITY & INCLUSION
+DCER                                                        ,DEP COMM EMPLOYEE RELATIONS
+DCER CU                                                     ,
+DCINTCT                                                     ,DEP COMM INTEL & COUNTERTERRORISM
+DCLR                                                        ,DEP COMM LABOR RELATIONS
+DCMB                                                        ,DEP COMM MANAGEMENT & BUDGET
+DCMB INV                                                    ,DCMB INVESTIGATIONS UNIT
+DCSC                                                        ,DEP COMM STRATEGIC COMMUNICATIONS
+DCSI                                                        ,DEP COMM STRATEGIC INITIATIVES
+DCSI ORI                                                    ,DCSI OFF OF RESEARCH & INNOV
+DCSI PMO                                                    ,DCSI PROJECT MANAGEMENT OFFICE
+DCU TACT TRN                                                ,TACTICAL TRAINING UNIT
+DESIGN&EVAL                                                 ,DCSI DESIGN & EVAL OFFICE
+DET BUR                                                     ,DETECTIVE BUREAU
+DET BUR                                                     ,OFFICE OF THE CHIEF OF DETECTIVES
+DIR TRN                                                     ,
+DIS CTL                                                     ,DISORDER CONTROL UNIT
+DOC FRAUD SQD                                               ,DOCUMENT FRAUD SQUAD
+DPT ADV                                                     ,
+DPT INV                                                     ,DEPT OF INVESTIGATION SQUAD
+DR.ED&T                                                     ,
+DRIVE ED & TRN                                              ,DRIVER EDUCATION & TRAINING UNIT
+DRUG ENF TF                                                 ,DRUG ENFORCEMENT TASK FORCE
+E S U                                                       ,
+EEO DIV                                                     ,EQUAL EMPLOYMENT OPPORTUNITY DIV
+EEO INV UNIT                                                ,EEO INVESTIGATIONS UNIT
+ELECTRONICS                                                 ,LSSD ELECTRONICS SECTION
+EM OPS                                                      ,
+EMER OPS DIV                                                ,EMERGENCY OPERATIONS DIVISION
+EMP REL                                                     ,
+EMPL RESOURCE                                               ,EMPLOYEE RESOURCES SECTION
+EPE RECOVERY TF                                             ,OPS EPE RECOVERY TASK FORCE
+EQP SEC                                                     ,
+EQUIPMENT                                                   ,EQUIPMENT SECTION
+ESS 01                                                      ,EMER SERV SQ 01
+ESS 02                                                      ,EMER SERV SQ 02
+ESS 03                                                      ,EMER SERV SQ 03
+ESS 04                                                      ,EMER SERV SQ 04
+ESS 05                                                      ,EMER SERV SQ 05
+ESS 06                                                      ,EMER SERV SQ 06
+ESS 07                                                      ,EMER SERV SQ 07
+ESS 08                                                      ,EMER SERV SQ 08
+ESS 09                                                      ,EMER SERV SQ 09
+ESS 10                                                      ,EMER SERV SQ 10
+ESU                                                         ,EMERGENCY SERVICES UNIT
+ESU CAN                                                     ,
+ESU K9                                                      ,ESU CANINE TEAM
+F S D                                                       ,
+F S S                                                       ,FIREARMS SUPPRESSION SECTION
+F.T.S.                                                      ,
+FACIL MGMT                                                  ,FACILITIES MANAGEMENT DIVISION
+FAM ASSIST                                                  ,FAMILY ASSISTANCE SECTION
+FAM EXEMPT                                                  ,FAS EXEMPT HARDSHIP
+FAM SEC                                                     ,
+FAM SUPP TEAM                                               ,FAS SUPPORT TEAM
+FIN CRM SEC                                                 ,CEIS FINANCIAL CRIMES SECTION
+FIREARMS INV                                                ,FIREARMS INVESTIGATION UNIT
+FIS DIV                                                     ,
+FISCAL AFF                                                  ,FISCAL AFFAIRS DIVISION
+FLT SRV                                                     ,FLEET SERVICES DIVISION
+FLT SVC                                                     ,
+FM DIV                                                      ,
+FM SEC                                                      ,FACILITY MAINTENANCE SECTION
+FOR INV                                                     ,
+FORCE ID                                                    ,FORCE INVESTIGATION DIVISION
+FORCE ID Z1                                                 ,FORCE ID ZONE 1 (M/BX)
+FORCE ID Z2                                                 ,FORCE ID ZONE 2 (BK/QNS/SI)
+FORCEID                                                     ,
+FRAUD COL IN                                                ,CEIS FRAUD COLLISION INV SQUAD
+FTS                                                         ,FIREARMS & TACTICS SECTION
+FUG ENF                                                     ,
+GANG BN                                                     ,
+GANG BS                                                     ,
+GANG BX                                                     ,
+GANG DV                                                     ,
+GANG ID                                                     ,
+GANG IU                                                     ,
+GANG M                                                      ,
+GANG MN                                                     ,
+GANG MS                                                     ,
+GANG Q                                                      ,
+GANG QN                                                     ,
+GANG QS                                                     ,
+GANG SI                                                     ,
+GLD ZN 1                                                    ,GRAND LARCENY DIV ZONE 1
+GRANTS UNIT                                                 ,GRANTS UNIT
+GUN OFFDR MONT                                              ,GUN OFFENDER MONITORING UNIT
+GVS DIV                                                     ,
+GVSD GUN REC                                                ,GVSD GUN RECIDIVIST INV PROG
+GVSD JFTF                                                   ,GVSD JOINT FIREARMS TASK FORCE
+GVSD Z1                                                     ,"GUN VIOL SUPP DIV Z1 (BK,Q,SI)"
+GVSD Z1 VRTF                                                ,GVSD Z1 VIOLENCE RED T/F
+GVSD Z2                                                     ,"GUN VIOL SUPP DIV Z2 (MAN,BX)"
+GVSD Z2 VRTF                                                ,GVSD Z2 VIOLENCE RED T/F
+H BKLYN                                                     ,HOUSING BOROUGH BROOKLYN
+H BX/Q                                                      ,HOUSING BOROUGH BRONX/QUEENS
+H INV U                                                     ,HOUSING INVESTIGATIONS UNIT
+H MAN                                                       ,
+H SP OP                                                     ,HB SPECIAL OPERATIONS SECTION
+H VANDL                                                     ,
+H&W EAU                                                     ,H&W EMPLOYEE ASSISTANCE UNIT
+H&WELL                                                      ,
+H&WELL POPPA                                                ,H&WELL POPPA LIAISON
+HARBOR                                                      ,HARBOR UNIT
+HAZ WMD                                                     ,HAZMAT/WEAPONS OF MASS DESTRUCTION
+HB                                                          ,HOUSING BUREAU
+HB SPEC                                                     ,
+HBK IRT                                                     ,
+HBK RT                                                      ,HB BROOKLYN RESPONSE TEAM
+HBM                                                         ,HOUSING BOROUGH MANHATTAN
+HBM IRT                                                     ,
+HBM RT                                                      ,HB MANHATTAN RESPONSE TEAM
+HBX/QIM                                                     ,
+HBXQ RT                                                     ,HB BRONX/QUEENS RESPONSE TEAM
+HBXQIRT                                                     ,
+HLTH & WELL                                                 ,HEALTH & WELLNESS SECTION
+HLTH INS                                                    ,HEALTH INSURANCE SECTION
+HOMLESS                                                     ,
+HOMLESS                                                     ,
+HOSS                                                        ,
+HOST NEG                                                    ,SID HOSTAGE NEGOTIATION TEAM
+HOU                                                         ,
+HQ CUST                                                     ,
+HQ SEC                                                      ,HEADQUARTERS SECURITY UNIT
+HSG BUR                                                     ,
+HWY 01                                                      ,HIGHWAY UNIT NO 1
+HWY 02                                                      ,HIGHWAY UNIT NO 2
+HWY 03                                                      ,HIGHWAY UNIT NO 3
+HWY 04                                                      ,
+HWY 05                                                      ,
+HWY 5                                                       ,HIGHWAY UNIT 5
+HWY CIS                                                     ,HWY DST COLLISION INV SQD
+HWY DIST                                                    ,HIGHWAY DISTRICT
+HWY DST                                                     ,
+HWY DST CTG                                                 ,HWY DIST COLLISION TECH GROUP
+HWY DST STS                                                 ,HIGHWAY DISTRICT SPECIALIZED TRAINING SCHOOL
+I T B                                                       ,
+I T S D                                                     ,
+I.A.B.                                                      ,
+IAB                                                         ,INTERNAL AFFAIRS BUREAU
+IAB ADMIN                                                   ,IAB ADMINISTRATION
+IAB CMD CTR                                                 ,IAB COMMAND CENTER
+IAB CRIM INV                                                ,IAB CRIMINAL INVESTIGATIONS
+IAB GRP 1                                                   ,IAB GROUP 1
+IAB GRP 10                                                  ,IAB GROUP 10
+IAB GRP 12                                                  ,IAB GROUP 12
+IAB GRP 21                                                  ,IAB GROUP 21
+IAB GRP 22                                                  ,IAB GROUP 22
+IAB GRP 26                                                  ,IAB GROUP 26
+IAB GRP 27                                                  ,IAB GROUP 27
+IAB GRP 31                                                  ,IAB GROUP 31
+IAB GRP 32                                                  ,IAB GROUP 32
+IAB GRP 33                                                  ,IAB GROUP 33
+IAB GRP 34                                                  ,IAB GROUP 34
+IAB GRP 41                                                  ,IAB GROUP 41
+IAB GRP 42                                                  ,IAB GROUP 42
+IAB GRP 52                                                  ,IAB GROUP 52
+IAB GRP 53                                                  ,IAB GROUP 53
+IAB GRP 54                                                  ,IAB GROUP 54
+IAB GRP 56                                                  ,IAB GROUP 56
+IAB GRP 9                                                   ,IAB GROUP 9
+IAB RESOURCE                                                ,IAB RESOURCES
+IAB SPEC OPS                                                ,IAB SPECIAL OPERATIONS
+IAB Z1                                                      ,IAB ZONE 1
+IAB Z2                                                      ,IAB ZONE 2
+IAB Z3                                                      ,IAB ZONE 3
+ID SECT                                                     ,IDENTIFICATION SECTION
+ID THEFT SQD                                                ,IDENTITY THEFT SQUAD
+IG COORD UNIT                                               ,INSP GENERAL COORD UNIT
+INSRVTR                                                     ,
+INSUPDV                                                     ,
+INT BUR                                                     ,
+INT CIS                                                     ,CRIMINAL INTELLIGENCE SECTION
+INT CIS                                                     ,
+INT DIV                                                     ,
+INT EPU                                                     ,EXECUTIVE PROTECTION UNIT
+INT FIO PRG                                                 ,INTEL CIS FIO PROGRAM
+INT MSS                                                     ,
+INT OAS                                                     ,
+INT PSS                                                     ,
+INT RIC                                                     ,
+INT RIS                                                     ,
+INT SDU                                                     ,SENSITIVE DATA UNIT
+INT UOU                                                     ,UNIFORMED OPERATIONS UNIT
+INTEL BUR                                                   ,INTELLIGENCE BUREAU
+INTEL INV                                                   ,INTELLIGENCE BUREAU INVESTIGATIONS UNIT
+INV REVIEW                                                  ,COD INVESTIGATION REVIEW SECTION
+INV SUP                                                     ,INVESTIGATIVE SUPPORT SECTION
+IT PRGM MGMT                                                ,IT PROGRAM MANAGEMENT
+ITB                                                         ,INFORMATION TECHNOLOGY BUREAU
+ITB ADM DIV                                                 ,ITB ADMINISTRATIVE DIVISION
+ITB INV                                                     ,ITB INVESTIGATIONS UNIT
+ITSD                                                        ,INFO TECHNOLOGY SERVICES DIV
+JB/R/TF                                                     ,JOINT BANK ROB T/F
+JFK TF                                                      ,CEIS JFK TASK FORCE
+JOINT ORG CRM TF                                            ,CEIS JOINT ORGANIZED CRIME TASK FORCE
+JT T/F                                                      ,
+JTTF                                                        ,JOINT TERRORIST TASK FORCE
+JUV CRM                                                     ,JUVENILE CRIME SECTION
+L S S D                                                     ,
+L.I.M.S                                                     ,LEAVE INTEGRITY MGT. SECTION
+LAB EVID&SECTY                                              ,LAB EVIDENCE CTRL & SECURITY
+LAB FIREARMS                                                ,POL LAB FIREARMS ANALYSIS SEC
+LATE PTRL TD 2                                              ,ATU LATE TOUR PATROL TD 2
+LB BWC LU                                                   ,LB BODY WORN CAMERA LEGAL UNIT
+LB PALS                                                     ,POLICE ACTION LITIGATION SECTION
+LDS DEV                                                     ,
+LDS TRN                                                     ,
+LEADER TRN                                                  ,LEADERSHIP TRAINING SECTION
+LEG BUR                                                     ,LEGAL BUREAU
+LIC DIV                                                     ,LICENSE DIVISION
+LMSI PMO                                                    ,LMSI PROJECT MANAGEMENT OFFICE
+LSSD                                                        ,LIFE-SAFETY SYSTEMS DIVISION
+M CHILD                                                     ,MANHATTAN CHILD ABUSE SQUAD
+M COURT                                                     ,MAN COURT SECTION
+M E L D                                                     ,
+M I S D                                                     ,
+M SVS                                                       ,MANHATTAN SPECIAL VICTIMS SQUAD
+M TRANS RB SQD                                              ,MANHATTAN TRANSIT ROBBERY SQD
+M WARRANT SQD                                               ,MANHATTAN WARRANT SQD
+M/N-NE                                                      ,
+M/N-NW                                                      ,
+M/S-DND                                                     ,
+M/S-ND                                                      ,
+MAH IMP                                                     ,
+MAILDIS                                                     ,
+MAJOR INV SQD                                               ,CEIS MAJOR INVESTIGATION SQUAD
+MAN CT                                                      ,
+MB SSZC                                                     ,
+MB SSZN                                                     ,
+MC/SQD                                                      ,MAJOR CASE SQUAD
+MCS CHILD EXP                                               ,NYPD/FBI CHILD EXPL & HTTF
+MCS HUMAN TR                                                ,HUMAN TRAFFICKING UNIT
+MED DIV                                                     ,MEDICAL DIVISION
+MELD                                                        ,MILITARY & EXTENDED LEAVE DESK
+MGMT ANL                                                    ,MANAGEMENT ANALYSIS SECTION
+MN CRIME ANL                                                ,MN CRIME ANALYSIS UNIT
+MN GRAND LARC                                               ,MANHATTAN NORTH GRAND LARCENY SQD
+MN IRT                                                      ,
+MN OP NIGHT                                                 ,MANHATTAN NORTH OPER NIGHT WATCH
+MN SU AC                                                    ,MN ANTI-CRIME UNIT
+MN SU ALU                                                   ,MN AUTO LARCENY UNIT
+MN SU ECT                                                   ,MN EVIDENCE COLLECTION TEAM
+MN VICE                                                     ,MANHATTAN NORTH VICE MODULE
+MNROBSQ                                                     ,MANH ROBBERY SQUAD
+MODS                                                        ,MGMT ORDERS & DIRECTIVES SECTION
+MONEY LAUND                                                 ,CEIS MONEY LAUNDERING UNIT
+MOUNTED                                                     ,MOUNTED UNIT
+MP SQD                                                      ,MISSING PERSONS SQUAD
+MS CRIME ANL                                                ,MS CRIME ANALYSIS UNIT
+MS GRAND LARC                                               ,MANHATTAN SOUTH GRAND LARCENY SQD
+MS OP NIGHT                                                 ,MANHATTAN SOUTH OPER NIGHT WATCH
+MS SU BLARE                                                 ,MS BLARE TEAM
+MS SU ECT                                                   ,MS EVIDENCE COLLECTION TEAM
+MS TIMES SQ                                                 ,TIMES SQUARE UNIT
+MS VICE                                                     ,MANHATTAN SOUTH VICE MODULE
+MTN DET                                                     ,MTN DET SQUAD
+MTN PCT                                                     ,018 PCT-MIDTOWN NO. PCT
+MTS DET                                                     ,MTS DET SQUAD
+MTS PCT                                                     ,014 PCT-MIDTOWN SO. PCT
+MUNI SECUR                                                  ,MUNICIPAL SECURITY SECTION
+NAR DIV                                                     ,
+NARC SI                                                     ,NARC BORO STATEN ISLAND
+NARCBBN                                                     ,NARC BORO BROOKLYN NORTH
+NARCBBS                                                     ,NARC BORO BROOKLYN SOUTH
+NARCBBX                                                     ,NARC BORO BRONX
+NARCBMN                                                     ,NARC BORO MANHATTAN NORTH
+NARCBMS                                                     ,NARC BORO MANHATTAN SOUTH
+NARCBQN                                                     ,NARC BORO QUEENS NORTH
+NARCBQS                                                     ,NARC BORO QUEENS SOUTH
+NARCBSI                                                     ,
+NARCO CANINE                                                ,NARCOTICS CANINE UNIT
+NBBN MAJOR                                                  ,NARC BORO BROOKLYN NORTH MAJOR CASE UNIT
+NBBN NITRO                                                  ,NARC BORO BROOKLYN NORTH NITRO
+NBBN ZN 15                                                  ,NARC BORO BROOKLYN NORTH ZONE 15
+NBBS MAJOR                                                  ,NARC BORO BROOKLYN SOUTH MAJOR CASE UNIT
+NBBX MAJOR                                                  ,NARC BORO BRONX MAJOR CASE UNIT
+NBBX ZN 8                                                   ,NARC BORO BRONX ZONE 8
+NBMN MAJOR                                                  ,NARC BORO MANHATTAN NORTH MAJOR CASE UNIT
+NBMS MAJOR                                                  ,NARC BORO MANHATTAN SOUTH MAJOR CASE UNIT
+NBQN MAJOR                                                  ,NARC BORO QUEENS NORTH MAJOR CASE UNIT
+NBQS MAJOR                                                  ,NARC BORO QUEENS SOUTH MAJOR CASE UNIT
+NBQS ZN 17                                                  ,NARC BORO QUEENS SOUTH ZONE 17
+NBQS ZN 24                                                  ,NARC BORO QUEENS SOUTH ZONE 24
+NBSI MAJOR                                                  ,NARC BORO STATEN ISLAND MAJOR CASE UNIT
+ND BKSI                                                     ,
+ND BXCI                                                     ,
+ND BXSI                                                     ,
+ND CH I                                                     ,
+ND EH I                                                     ,
+ND NMI                                                      ,
+ND Q/NI                                                     ,
+ND SEQI                                                     ,
+ND SI I                                                     ,
+NYPDFBI FCTF                                                ,NYPD/FBI FINANCIAL CRIMES TF
+O C C B                                                     ,
+O C I D                                                     ,
+O M A P                                                     ,
+O T S D                                                     ,
+O.E.M.                                                      ,
+OCDE-SF                                                     ,
+OCME LIAISON                                                ,OCME LIAISON UNIT
+OEEO                                                        ,
+OFF CSO                                                     ,
+OFF DCSI                                                    ,OFFICE OF THE DEP COMM STRATEGIC INITIATIVES
+OFF I/T                                                     ,
+OFF OPS BUR                                                 ,OFFICE OF THE OPERATIONS BUREAU
+OFF SUPV CH SRG                                             ,OFFICE SUPV CHIEF SURGEON
+OFF/L R                                                     ,
+OFF/TRP                                                     ,
+OFFICE CCCS                                                 ,OFFICE OF THE CHIEF CRIME CONTROL STRATEGIES
+OFFICE DCEI                                                 ,OFFICE OF THE DEP COMM EQUITY & INCLUSION
+OFFICE DCT                                                  ,OFFICE OF THE DEP COMM TRIALS
+OFFICE PB                                                   ,OFFICE OF THE CHIEF OF PERSONNEL
+OFFICE PSB                                                  ,OFFICE OF PATROL SERVICES BUREAU
+OFFICE RMB                                                  ,OFFICE OF THE RISK MANAGEMENT BUREAU
+OFFICE TRANSIT                                              ,OFFICE OF THE CHIEF OF TRANSIT
+OFFICE TRNG                                                 ,OFFICE OF THE CHIEF OF TRAINING
+OFFICE TRP                                                  ,OFFICE OF THE CHIEF OF TRANSPORTATION
+OFSCSRG                                                     ,
+OMAP                                                        ,OFFICE OF MGMT ANALYSIS & PLANNING
+OPD                                                         ,OFFICE OF PROFESSIONAL DEVELOPMENT
+OPER RSRCH                                                  ,OPERATIONS RESEARCH SECTION
+OPER&ANALYSIS                                               ,OPERATIONS & ANALYSIS SECTION
+OPS BUR                                                     ,OPERATIONS BUREAU
+OPS EM PREP                                                 ,EMERGENCY PREP & EXERCISE SECTION
+OPS EPE                                                     ,
+OPS TSU                                                     ,OPS TECHNICAL SUPPORT UNIT
+OPS UN                                                      ,
+OPS UNIT                                                    ,OPERATIONS UNIT
+ORG THEFT SQD                                               ,ORGANIZED THEFT SQUAD
+P A T U                                                     ,
+P C C U                                                     ,
+P C O                                                       ,
+P S B                                                       ,PATROL SERVICES BUREAU
+P.E.R.L                                                     ,
+PA SITE&SECUR                                               ,PA SITE & SECURITY UNIT
+PA UPTU                                                     ,
+PAY SEC                                                     ,
+PAY&BEN                                                     ,PAYROLL & BENEFITS DIVISION
+PB                                                          ,PERSONNEL BUREAU
+PB CAD                                                      ,CANDIDATE ASSESSMENT DIVISION
+PB CAD                                                      ,
+PB CAS                                                      ,
+PB EMD                                                      ,
+PB ERS                                                      ,
+PB HCD                                                      ,
+PB HRD                                                      ,HUMAN RESOURCES DIVISION
+PB INV                                                      ,PB INVESTIGATIONS UNIT
+PB PAID DTL                                                 ,PB PAID DETAIL UNIT
+PB POD                                                      ,
+PB POS                                                      ,
+PB REC                                                      ,
+PB SAS                                                      ,
+PBBN                                                        ,PATROL BORO BKLYN NORTH
+PBBN AC                                                     ,
+PBBN INV UNIT                                               ,PBBN INVESTIGATIONS UNIT
+PBBN SC                                                     ,
+PBBN SCOOTER                                                ,PBBN SCOOTER TASK FORCE
+PBBN SECURITY                                               ,PBBN SECURITY DETAIL
+PBBN SU                                                     ,
+PBBN SU PST                                                 ,PBBN PUBLIC SAFETY TEAMS
+PBBN TF                                                     ,
+PBBS                                                        ,PATROL BORO BKLYN SOUTH
+PBBS AC                                                     ,
+PBBS INV                                                    ,PBBS INVESTIGATIONS
+PBBS SC                                                     ,
+PBBS SU                                                     ,
+PBBS SU PST                                                 ,PBBS PUBLIC SAFETY TEAMS
+PBBS TF                                                     ,
+PBBX                                                        ,PATROL BORO BRONX
+PBBX AC                                                     ,
+PBBX INV UNIT                                               ,PBBX INVESTIGATIONS UNIT
+PBBX SC                                                     ,
+PBBX SU                                                     ,
+PBBX SU PST                                                 ,PBBX PUBLIC SAFETY TEAMS
+PBBX TF                                                     ,
+PBBX YANKEE                                                 ,YANKEE STADIUM DETAIL
+PBBX ZOO                                                    ,BRONX ZOO DETAIL
+PBMN                                                        ,PATROL BORO MAN NORTH
+PBMN AC                                                     ,
+PBMN INV UNIT                                               ,PBMN INVESTIGATIONS UNIT
+PBMN SC                                                     ,
+PBMN SCOOT                                                  ,PBMN SCOOTER TASK FORCE
+PBMN SU                                                     ,PBMN SPECIALIZED UNITS
+PBMN SU PST                                                 ,PBMN PUBLIC SAFETY TEAMS
+PBMN TF                                                     ,
+PBMS                                                        ,PATROL BORO MAN SOUTH
+PBMS AC                                                     ,
+PBMS INV                                                    ,PBMS INVESTIGATIONS UNIT
+PBMS SC                                                     ,
+PBMS SCOOTER                                                ,PBMS SCOOTER TASK FORCE
+PBMS SU                                                     ,PBMS SPECIALIZED UNITS
+PBMS SU PST                                                 ,PBMS PUBLIC SAFETY TEAMS
+PBMS TF                                                     ,
+PBQ/N                                                       ,
+PBQ/S                                                       ,
+PBQN                                                        ,PATROL BORO QUEENS NORTH
+PBQN AC                                                     ,
+PBQN CITI FLD                                               ,PBQN CITI FIELD DETAIL
+PBQN INV UNIT                                               ,PBQN INVESTIGATIONS UNIT
+PBQN SC                                                     ,
+PBQN SU                                                     ,
+PBQN SU PST                                                 ,PBQN PUBLIC SAFETY TEAMS
+PBQNT/F                                                     ,
+PBQS                                                        ,PATROL BORO QUEENS SOUTH
+PBQS AC                                                     ,
+PBQS INV UNIT                                               ,PBQS INVESTIGATIONS UNIT
+PBQS SC                                                     ,
+PBQS SU                                                     ,
+PBQS SU PST                                                 ,PBQS PUBLIC SAFETY TEAMS
+PBQST/F                                                     ,
+PBSI                                                        ,PATROL BORO STATEN ISLAND
+PBSI AC                                                     ,
+PBSI DO                                                     ,
+PBSI INV UNIT                                               ,PBSI INVESTIGATIONS UNIT
+PBSI SU                                                     ,
+PBSI SU FERRY                                               ,PBSI FERRY SECURITY UNIT
+PBSI SU PST                                                 ,PBSI PUBLIC SAFETY TEAMS
+PBSI TF                                                     ,
+PCO                                                         ,POLICE COMMISSIONER
+PCO C U                                                     ,
+PCO L U                                                     ,
+PCO QAD                                                     ,
+PCO RTC                                                     ,
+PEN SEC                                                     ,
+PER BUR                                                     ,
+PHOTO-U                                                     ,PHOTO UNIT
+PI&REQ                                                      ,
+PLT MGT                                                     ,
+POD                                                         ,PERSONNEL ORDERS DIVISION
+POL ACAD                                                    ,POLICE ACADEMY
+POL ACD                                                     ,
+POL LAB                                                     ,POLICE LABORATORY
+POL PEN                                                     ,
+POL PENSION                                                 ,POLICE PENSION FUND
+PRINTS                                                      ,
+PROP CLK                                                    ,PROPERTY CLERK DIV
+PROPCLK                                                     ,
+PSA 1                                                       ,HOUSING PSA 1
+PSA 2                                                       ,HOUSING PSA 2
+PSA 3                                                       ,HOUSING PSA 3
+PSA 4                                                       ,HOUSING PSA 4
+PSA 5                                                       ,HOUSING PSA 5
+PSA 6                                                       ,HOUSING PSA 6
+PSA 7                                                       ,HOUSING PSA 7
+PSA 8                                                       ,HOUSING PSA 8
+PSA 9                                                       ,HOUSING PSA 9
+PSA 9 JRIP                                                  ,PSA 9 JUVENILE ROB INTERV PRGM
+PSA1 VIPER13                                                ,PSA 1 VIPER 13
+PSA2 VIPER2                                                 ,PSA 2 VIPER 2
+PSA4 VIPER6                                                 ,PSA 4 VIPER 6
+PSA5 VIPER12                                                ,PSA 5 VIPER 12
+PSA6 VIPER1                                                 ,PSA 6 VIPER 1
+PSA7 VIPER11                                                ,PSA 7 VIPER 11
+PSA8 VIPER4                                                 ,PSA 8 VIPER 4
+PSA9 VIPER3                                                 ,PSA 9 VIPER 3
+PSAC II SEC                                                 ,PSAC II SECURITY
+PSB IES                                                     ,INVESTIGATION & EVALUATION SECT
+PSB NPASU                                                   ,PSB NBHD POLICING ANALYSIS & SUPP UNIT
+PSB RMS                                                     ,RESOURCE MANAGEMENT SECTION
+PUBLIC SECUR                                                ,PUBLIC SECURITY SECTION
+Q CHILD                                                     ,QUEENS CHILD ABUSE SQUAD
+Q COURT                                                     ,QNS COURT SECTION
+Q NIGHT WATCH                                               ,QUEENS NIGHT WATCH
+Q SVS                                                       ,QUEENS SPECIAL VICTIMS SQUAD
+Q WARRANT SQD                                               ,QUEENS WARRANT SQD
+Q/N-ND                                                      ,
+Q/S-ND                                                      ,
+QA DCSI                                                     ,
+QAD 1DC                                                     ,
+QAD DIU                                                     ,QAD DATA INTEGRITY UNIT
+QB SSZC                                                     ,
+QB SSZN                                                     ,
+QDA CIU                                                     ,
+QM SEC                                                      ,QUARTERMASTER SECTION
+QN CRIME ANL                                                ,QN CRIME ANALYSIS UNIT
+QN GRAND LARC                                               ,QUEENS NORTH GRAND LARCENY SQD
+QN SU ALU                                                   ,QN AUTO LARCENY UNIT
+QN SU ECT                                                   ,QN EVIDENCE COLLECTION TEAM
+QN TRANSIT ROB                                              ,QUEENS TRANSIT ROBBERY SQUAD
+QN VICE                                                     ,QUEENS NORTH VICE MODULE
+QNROBSQ                                                     ,QUEENS ROBBERY SQUAD
+QNS CT                                                      ,
+QS CRIME ANL                                                ,QS CRIME ANALYSIS UNIT
+QS GANG                                                     ,
+QS GRAND LARC                                               ,QUEENS SOUTH GRAND LARCENY SQD
+QS HOMICIDE                                                 ,QUEENS SOUTH OPER HOMICIDE SQD
+QS IRT                                                      ,
+QS NARC                                                     ,
+QS SU ECT                                                   ,QS EVIDENCE COLLECTION TEAM
+QS VICE                                                     ,QUEENS SOUTH VICE MODULE
+R M D                                                       ,RISK MITIGATION DIVISION
+REC SEC                                                     ,
+REC TNG                                                     ,
+RM BUR                                                      ,
+RMB                                                         ,RISK MANAGEMENT BUREAU
+RMB BODY CAM                                                ,RMB CD BODY WORN CAMERA UNIT
+RMB CD                                                      ,COMPLIANCE DIVISION
+RMB QAD                                                     ,QUALITY ASSURANCE DIVISION
+RMB QAD AUD MGT                                             ,RMB QAD AUDIT MANAGEMENT UNIT
+RMB TRAINING                                                ,RMB TRAINING UNIT
+RMD PAS                                                     ,PERFORMANCE ANALYSIS SEC
+RTC FACIAL ID                                               ,RTCC FACIAL IDENTIFICATION SEC
+RTC JUV CRM                                                 ,RTCC JUVENILE CRIME DESK
+RTCC                                                        ,REAL TIME CRIME CENTER
+RTCC INV SUPP                                               ,RTCC INVESTIGATIVE SUPPORT SEC
+RTCC SMART                                                  ,RTCC SOCIAL MEDIA ANALYSIS & RESEARCH TEAM
+RTS ADM                                                     ,RTS ADMIN STAFF
+RTS RECRUIT                                                 ,RTS RECRUITS
+S O D                                                       ,
+S P I S                                                     ,
+S S B                                                       ,
+S T D                                                       ,
+S.I. CT                                                     ,
+SAT B/N                                                     ,
+SAT QS                                                      ,
+SATDOPS                                                     ,
+SATHOPS                                                     ,
+SATNOPS                                                     ,
+SCUBA UNIT                                                  ,SCUBA UNIT
+SHIELD & ID                                                 ,"SHIELD, ID, & UNIFORMED SERVICES UNIT"
+SI COURT                                                    ,STATEN ISLAND COURT SECTION
+SI CRIME ANL                                                ,SI CRIME ANALYSIS UNIT
+SI DO                                                       ,
+SI EMER                                                     ,
+SI GRAND LARC                                               ,STATEN ISLAND GRAND LARCENY SQD
+SI HOMICIDE                                                 ,STATEN ISLAND OPER HOMICIDE SQD
+SI HWYP                                                     ,
+SI IRT                                                      ,
+SI OP NIGHT                                                 ,STATEN ISLAND OPER NIGHT WATCH
+SI SCSU                                                     ,
+SI SU ECT                                                   ,SI EVIDENCE COLLECTION TEAM
+SI SVS                                                      ,STATEN ISLAND SPECIAL VICTIMS SQUAD
+SIHU                                                        ,
+SOD HOU                                                     ,
+SOD SRG                                                     ,
+SOD T/U                                                     ,
+SP FRDS                                                     ,SPECIAL FRAUDS SQUAD
+SP INV                                                      ,
+SPL TRN                                                     ,SPECIALIZED TRAINING SECTION
+SPORTS UNIT                                                 ,H&WELL SPORTS UNIT
+SPRING 3100                                                 ,SPRING 3100
+SRG                                                         ,STRATEGIC RESPONSE GROUP
+SRG 04                                                      ,STRATEGIC RESP GRP 4 QUEENS
+SRG 05                                                      ,STRATEGIC RESP GRP 5 SI
+SRG 1                                                       ,STRATEGIC RESP GRP 1 MANHATTAN
+SRG 2                                                       ,STRATEGIC RESP GRP 2 BRONX
+SRG 3                                                       ,STRATEGIC RESP GRP 3 BROOKLYN
+SRG 4                                                       ,
+SRG 5                                                       ,
+SS DIV                                                      ,SCHOOL SAFETY DIVISION
+SS INV                                                      ,
+SS MBZ                                                      ,
+SS QBSZ                                                     ,
+SSB                                                         ,SUPPORT SERVICES BUREAU
+SSB INV                                                     ,SSB INVESTIGATIONS UNIT
+SSD INV                                                     ,SSD INVESTIGATIONS UNIT
+STAFFSV                                                     ,
+STD                                                         ,STRATEGIC TECHNOLOGY DIVISION
+STR FOR                                                     ,
+STR FORCE                                                   ,STRIKE FORCE
+SVD DATA ANL                                                ,SVD DATA ANALYSIS GROUP
+SVD DNA COLD                                                ,DNA COLD CASE SQUAD
+SVD IRTU                                                    ,SVD INSTANT RESPONSE TRK UNIT
+SVD LIAISON                                                 ,SVD LIAISON UNIT
+SVD NIGHT                                                   ,SVD NIGHT WATCH
+SVD SOMU                                                    ,SEX OFFENDER MONITORING UNIT
+SVD STRANGER                                                ,STRANGER RAPE COLD CASE SQUAD
+SVD Z1                                                      ,SPECIAL VICTIMS DIV ZONE 1
+SVD Z2                                                      ,
+SVD Z3                                                      ,SPECIAL VICTIMS DIV ZONE 3
+T.A.R.U                                                     ,
+TARU                                                        ,TECH. ASSIST. & RESPONSE UNIT
+TAXI SQ                                                     ,
+TAXI UT                                                     ,
+TB                                                          ,TRANSIT BUREAU
+TB ATER                                                     ,
+TB ATU                                                      ,TB ANTI TERRORISM UNIT
+TB BK                                                       ,TRANSIT BORO BROOKLYN
+TB BK TF                                                    ,TRANSIT BORO BKLYN TASK FORCE
+TB BKTF                                                     ,
+TB BQTF                                                     ,
+TB BX                                                       ,
+TB BX QNS                                                   ,TRANSIT BORO BRONX/QUEENS
+TB BX QNS TF                                                ,TRANSIT BORO BX/QNS TASK FORCE
+TB BX/Q                                                     ,
+TB BXTF                                                     ,
+TB C/AN                                                     ,
+TB CAN                                                      ,
+TB CRM ANLYS                                                ,TRANSIT BUREAU CRIME ANALYSIS
+TB CW VTF                                                   ,TB CITYWIDE VANDALS TASK FORCE
+TB DT01                                                     ,
+TB DT02                                                     ,
+TB DT03                                                     ,
+TB DT04                                                     ,
+TB DT11                                                     ,
+TB DT12                                                     ,
+TB DT20                                                     ,
+TB DT23                                                     ,
+TB DT30                                                     ,
+TB DT32                                                     ,
+TB DT33                                                     ,
+TB DT34                                                     ,
+TB H/O                                                      ,
+TB INV                                                      ,TB INVESTIGATIONS UNIT
+TB K9                                                       ,TB CANINE UNIT
+TB LIAISON                                                  ,TRANSIT AUTHORITY LIAISON
+TB LIAS                                                     ,
+TB M                                                        ,TRANSIT BORO MANHATTAN
+TB M TIMES SQ                                               ,TB MANHATTAN TF TIMES SQ INITIATIVE
+TB M/TF                                                     ,
+TB MAN TF                                                   ,TRANSIT BORO MAN TASK FORCE
+TB MANH                                                     ,
+TB Q/TF                                                     ,
+TB QNS                                                      ,
+TB RESP                                                     ,
+TB SIU                                                      ,
+TB SOD                                                      ,TB SPECIAL OPERATIONS DISTRICT
+TB SOU                                                      ,
+TB VAND                                                     ,
+TB VTF                                                      ,
+TC PED                                                      ,
+TD 01 LTP                                                   ,ATU LATE TOUR PATROL TD 1
+TD 1                                                        ,TRANSIT DISTRICT 1
+TD 11                                                       ,TRANSIT DISTRICT 11
+TD 12                                                       ,TRANSIT DISTRICT 12
+TD 2                                                        ,TRANSIT DISTRICT 2
+TD 20                                                       ,TRANSIT DISTRICT 20
+TD 23                                                       ,TRANSIT DISTRICT 23
+TD 3                                                        ,TRANSIT DISTRICT 3
+TD 30                                                       ,TRANSIT DISTRICT 30
+TD 32                                                       ,TRANSIT DISTRICT 32
+TD 33                                                       ,TRANSIT DISTRICT 33
+TD 34                                                       ,TRANSIT DISTRICT 34
+TD 4                                                        ,TRANSIT DISTRICT 4
+TD C/AN                                                     ,
+TD DT01                                                     ,
+TD DT02                                                     ,
+TD DT03                                                     ,
+TD DT04                                                     ,
+TD DT11                                                     ,
+TD DT12                                                     ,
+TD DT20                                                     ,
+TD DT23                                                     ,
+TD DT30                                                     ,
+TD DT32                                                     ,
+TD DT33                                                     ,
+TD DT34                                                     ,
+TD H/O                                                      ,
+TD INV                                                      ,
+TD SOU                                                      ,
+TD VAND                                                     ,
+TEL ANALYSIS                                                ,TELEPHONE ANALYSIS UNIT
+TNG UNT                                                     ,
+TR/BKTF                                                     ,
+TR/BXTF                                                     ,
+TR/QTF                                                      ,
+TR/STED                                                     ,
+TRAFF ENF DIST                                              ,TRAFFIC ENFORCEMENT DISTRICT
+TRAFF MGMT                                                  ,TRAFFIC MANAGEMENT CENTER
+TRAFF SAFETY                                                ,TRAFFIC SAFETY FORUM UNIT
+TRANSIT SVS                                                 ,SVD TRANSIT SPECIAL VICTIMS SQUAD
+TRB OPS                                                     ,TRP BUR OPERATIONS UNIT
+TRB TED                                                     ,
+TRB TRF OPS                                                 ,TRAFFIC OPERATIONS DISTRICT
+TRDMRK INFRGMT                                              ,CEIS TRADEMARK INFRINGEMENT UNIT
+TRF CD                                                      ,
+TRF OPS                                                     ,
+TRF/MTF                                                     ,
+TRIG LOCK                                                   ,TRIGGER LOCK UNIT
+TRN BUR                                                     ,TRAINING BUREAU
+TRN BUR INV                                                 ,TRAINING BUREAU INV UNIT
+TRP BUR                                                     ,TRANSPORTATION BUREAU
+TRP BUR INV                                                 ,TRB INVESTIGATIONS UNIT
+TV UNIT                                                     ,MOVIE & TV UNIT
+UPTU                                                        ,UNIFORMED PROMOTIONS TRN UNIT
+VE BK/N                                                     ,
+VE BSSI                                                     ,
+VED BX                                                      ,
+VED M/N                                                     ,
+VED M/S                                                     ,
+VED MCS                                                     ,
+VED Q                                                       ,
+VED ZN1                                                     ,
+VED ZN2                                                     ,VICE ENFORCEMENT DIV ZONE 2
+VEHICLE ID                                                  ,VEHICLE IDENTIFICATION UNIT
+VICE                                                        ,VICE ENFORCEMENT DIVISION
+VICE ED                                                     ,
+VICE MAJOR                                                  ,VICE MAJOR CASE
+WAREHOUSE                                                   ,WAREHOUSE SYSTEM
+WARRSEC                                                     ,WARRANT SECTION
+WTC CMD                                                     ,WORLD TRADE CENTER COMMAND
+YOUTH STRAT                                                 ,YOUTH STRATEGIES DIVISION
+YTH DIV                                                     ,
+YTH SD                                                      ,
+YTH SS                                                      ,
