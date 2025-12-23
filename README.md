@@ -55,7 +55,7 @@ python pipeline.py --mode reset
 ├── sql_outputs/            # Generated SQL schemas 
 ├── pipeline.py             # Main pipeline controller
 ├── config.py               # Configuration file
-|-- clean_csv_headers.py    # data preprocessing
+├── clean_csv_headers.py    # data preprocessing
 ├── generate_schema.py      # generate staging table
 ├── import_staging.py       # csv data -> sql dataset
 └── README.md
@@ -71,5 +71,5 @@ Dataset source:
 
 ## 👤 Author
 INSA Lyon Exchange Student
-Database Systems Project
-Kim minjeong Lee jeeun
+- Kim minjeong 
+- Lee jeeun
